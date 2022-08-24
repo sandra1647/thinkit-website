@@ -3,7 +3,7 @@ import React, { useEffect, useState } from "react";
 import PageBanner from "../src/components/PageBanner";
 import Layout from "../src/layouts/Layout";
 import { getPagination, pagination } from "../src/utils";
-
+/* eslint-disable */
 const BlogStandard = () => {
   let sort = 2;
   const [active, setActive] = useState(1);

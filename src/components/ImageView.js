@@ -1,5 +1,5 @@
 import React, { Fragment, useEffect, useRef, useState } from "react";
-
+/* eslint-disable */
 let useClickOutside = (handler) => {
   let domNode = useRef();
 

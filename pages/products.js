@@ -4,7 +4,7 @@ import React, { useEffect, useState } from "react";
 import PageBanner from "../src/components/PageBanner";
 import Layout from "../src/layouts/Layout";
 import { getPagination, pagination } from "../src/utils";
-
+/* eslint-disable */
 const RangeSlider = dynamic(() => import("../src/components/RangeSlider"), {
   ssr: false,
 });

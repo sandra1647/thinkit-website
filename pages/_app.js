@@ -2,7 +2,7 @@ import Head from "next/head";
 import { Fragment } from "react";
 import PreLoader from "../src/components/PreLoader";
 import "../styles/globals.css";
-
+/* eslint-disable */
 function MyApp({ Component, pageProps }) {
   return (
     <Fragment>

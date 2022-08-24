@@ -112,18 +112,14 @@ const index = () => {
                 </div>
                 <div className="text">
                   <h3 className="title">
-                    <Link href="/service-details">
-                      <a>Softverska rešenja</a>
-                    </Link>
+                    <Link href="/service-details"><a>Softverska rešenja</a></Link>
                   </h3>
                   <p>
                     This article is intended to help define the data scientist
                     role, including typical skills, qualifications, education,
                     experience
                   </p>
-                  <Link href="/service-details">
-                    <a className="btn-link">Saznaj više</a>
-                  </Link>
+                  <Link href="/service-details"><a className="btn-link">Saznaj više</a></Link>
                 </div>
               </div>
             </div>
@@ -137,18 +133,14 @@ const index = () => {
                 </div>
                 <div className="text">
                   <h3 className="title">
-                    <Link href="/service-details">
-                      <a>Grafički dizajn</a>
-                    </Link>
+                    <Link href="/service-details"><a>Grafički dizajn</a></Link>
                   </h3>
                   <p>
                     This article is intended to help define the data scientist
                     role, including typical skills, qualifications, education,
                     experience
                   </p>
-                  <Link href="/service-details">
-                    <a className="btn-link">Saznaj više</a>
-                  </Link>
+                  <Link href="/service-details"><a className="btn-link">Saznaj više</a></Link>
                 </div>
               </div>
             </div>
@@ -162,18 +154,14 @@ const index = () => {
                 </div>
                 <div className="text">
                   <h3 className="title">
-                    <Link href="/service-details">
-                      <a>Digitalni marketing</a>
-                    </Link>
+                    <Link href="/service-details"><a>Digitalni marketing</a></Link>
                   </h3>
                   <p>
                     This article is intended to help define the data scientist
                     role, including typical skills, qualifications, education,
                     experience
                   </p>
-                  <Link href="/service-details">
-                    <a className="btn-link">Saznaj više</a>
-                  </Link>
+                  <Link href="/service-details"><a className="btn-link">Saznaj više</a></Link>
                 </div>
               </div>
             </div>
@@ -187,18 +175,14 @@ const index = () => {
                 </div>
                 <div className="text">
                   <h3 className="title">
-                    <Link href="/service-details">
-                      <a>Izrada web sajtova</a>
-                    </Link>
+                    <Link href="/service-details"><a>Izrada web sajtova</a></Link>
                   </h3>
                   <p>
                     This article is intended to help define the data scientist
                     role, including typical skills, qualifications, education,
                     experience
                   </p>
-                  <Link href="/service-details">
-                    <a className="btn-link">Saznaj više</a>
-                  </Link>
+                  <Link href="/service-details"><a className="btn-link">Saznaj više</a></Link>
                 </div>
               </div>
             </div>
@@ -212,17 +196,14 @@ const index = () => {
                 </div>
                 <div className="text">
                   <h3 className="title">
-                    <Link href="/service-details">
-                      <a>Održavanje web sajtova</a>
-                    </Link>
+                    <Link href="/service-details"><a>Održavanje web sajtova</a></Link>
                   </h3>
                   <p>
                     This article is intended to help define the data scientist
                     role, including typical skills, qualifications, education,
                     experience
                   </p>
-                  <Link href="/service-details">
-                  </Link>
+                  <Link href="/service-details"><a className="btn-link">Saznaj više</a></Link>
                 </div>
               </div>
             </div>
@@ -236,17 +217,14 @@ const index = () => {
                 </div>
                 <div className="text">
                   <h3 className="title">
-                    <Link href="/service-details">
-                      <a>Izrada internet prodavnica</a>
-                    </Link>
+                    <Link href="/service-details"><a>Izrada internet prodavnica</a></Link>
                   </h3>
                   <p>
                     This article is intended to help define the data scientist
                     role, including typical skills, qualifications, education,
                     experience
                   </p>
-                  <Link href="/service-details">
-                  </Link>
+                  <Link href="/service-details"><a className="btn-link">Saznaj više</a></Link>
                 </div>
               </div>
             </div>

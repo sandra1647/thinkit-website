@@ -163,9 +163,7 @@ const About = () => {
                 </div>
                 <div className="text">
                   <h3 className="title">
-                    <Link href="/service-details">
-                      <a className="text-underline">Web Design</a>
-                    </Link>
+                    <Link href="/service-details"><a className="text-underline">Web Design</a></Link>
                   </h3>
                   <p>Sed perspiatis unde omna volu tate</p>
                 </div>
@@ -181,9 +179,7 @@ const About = () => {
                 </div>
                 <div className="text">
                   <h3 className="title">
-                    <Link href="/service-details">
-                      <a className="text-underline">Mobile Apps</a>
-                    </Link>
+                    <Link href="/service-details"><a className="text-underline">Mobile Apps</a></Link>
                   </h3>
                   <p>Sed perspiatis unde omna volu tate</p>
                 </div>
@@ -199,9 +195,7 @@ const About = () => {
                 </div>
                 <div className="text">
                   <h3 className="title">
-                    <Link href="/service-details">
-                      <a className="text-underline">Cyber Security</a>
-                    </Link>
+                    <Link href="/service-details"><a className="text-underline">Cyber Security</a></Link>
                   </h3>
                   <p>Sed perspiatis unde omna volu tate</p>
                 </div>
@@ -217,9 +211,7 @@ const About = () => {
                 </div>
                 <div className="text">
                   <h3 className="title">
-                    <Link href="/service-details">
-                      <a className="text-underline">Product Strategy</a>
-                    </Link>
+                    <Link href="/service-details"><a className="text-underline">Product Strategy</a></Link>
                   </h3>
                   <p>Sed perspiatis unde omna volu tate</p>
                 </div>
@@ -235,9 +227,7 @@ const About = () => {
                 </div>
                 <div className="text">
                   <h3 className="title">
-                    <Link href="/service-details">
-                      <a className="text-underline">QA &amp; Tasting</a>
-                    </Link>
+                    <Link href="/service-details"><a className="text-underline">QA &amp; Tasting</a></Link>
                   </h3>
                   <p>Sed perspiatis unde omna volu tate</p>
                 </div>

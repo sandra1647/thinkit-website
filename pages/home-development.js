@@ -44,9 +44,7 @@ const HomeDevelopment = () => {
                 </div>
                 <div className="text">
                   <h3 className="title">
-                    <Link href="/service-details">
-                      <a>IT Consulting</a>
-                    </Link>
+                    <Link href="/service-details"><a>IT Consulting</a></Link>
                   </h3>
                   <ul className="list">
                     <li>Customer Experience</li>
@@ -68,9 +66,7 @@ const HomeDevelopment = () => {
                 </div>
                 <div className="text">
                   <h3 className="title">
-                    <Link href="/service-details">
-                      <a>Web Design</a>
-                    </Link>
+                    <Link href="/service-details"><a>Web Design</a></Link>
                   </h3>
                   <ul className="list">
                     <li>Customer Experience</li>
@@ -92,9 +88,7 @@ const HomeDevelopment = () => {
                 </div>
                 <div className="text">
                   <h3 className="title">
-                    <Link href="/service-details">
-                      <a>App Development</a>
-                    </Link>
+                    <Link href="/service-details"><a>App Development</a></Link>
                   </h3>
                   <ul className="list">
                     <li>Android App Development</li>
@@ -116,9 +110,7 @@ const HomeDevelopment = () => {
                 </div>
                 <div className="text">
                   <h3 className="title">
-                    <Link href="/service-details">
-                      <a>Web Development</a>
-                    </Link>
+                    <Link href="/service-details"><a>Web Development</a></Link>
                   </h3>
                   <ul className="list">
                     <li>WordPress Themes</li>

@@ -1,6 +1,7 @@
 {
-  "name": "muntech",
+  "name": "thinkit",
   "version": "0.1.0",
+  "homepage": "https://sandra1647.github.io/thinkit-website",
   "private": true,
   "scripts": {
     "dev": "next dev",

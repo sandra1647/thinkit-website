@@ -1,13 +1,8 @@
 import Link from "next/link";
 import { Nav, Tab } from "react-bootstrap";
-import Slider from "react-slick";
-import DataScience from "../src/components/accordion/DataScience";
-import Counter from "../src/components/Counter";
 import Header1 from "../src/layouts/headers/Header1";
 import Footer1 from "../src/layouts/footers/Footer1";
 import Layout from "../src/layouts/Layout";
-import { clientsSliderThree
-       } from "../src/sliderProps";
 
 const index = () => {
   return (
@@ -227,7 +222,6 @@ const index = () => {
                     experience
                   </p>
                   <Link href="/service-details">
-                    <a className="btn-link">Saznaj više</a>
                   </Link>
                 </div>
               </div>
@@ -252,7 +246,6 @@ const index = () => {
                     experience
                   </p>
                   <Link href="/service-details">
-                    <a className="btn-link">Saznaj više</a>
                   </Link>
                 </div>
               </div>
@@ -343,7 +336,6 @@ const index = () => {
                               GoKinder je sveobuhvatna platforma za vrtiće i predškolske ustanove koja se sastoji iz 
                               web aplikacije, kao i brendirane mobilne aplikacije za pristup roditelja. 
                             </p>
-                            <a class="btn-link" href="/service-details">Saznaj više</a>
                           </div>
                         </div>
                       </Tab.Pane>
@@ -364,7 +356,6 @@ const index = () => {
                             GoFitness je moćna platforma napravljena specijalno za fitness i wellness centre, 
                             personalne trenere, školice sporta i sportske centre, korišćena od strane preko 200 kompanija.
                             </p>
-                            <a class="btn-link" href="/service-details">Saznaj više</a>
                           </div>
                         </div>
                       </Tab.Pane>
@@ -385,7 +376,6 @@ const index = () => {
                             Firmica je softver koji nudi rešenje za sve vrste firmi u kojima će i poslodavci i zaposleni imati koristi. 
                             Poslodavci su u mogućnosti da nadgledaju tok rada, izveštaje i zadatke.
                             </p>
-                            <a class="btn-link" href="/service-details">Saznaj više</a>
                           </div>
                         </div>
                       </Tab.Pane>

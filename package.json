@@ -1,7 +1,7 @@
 {
   "name": "thinkit",
   "version": "0.1.0",
-  "homepage": "https://sandra1647.github.io/thinkit-website",
+  "homepage": "https://sandra1647.github.io/",
   "private": true,
   "scripts": {
     "predeploy": "npm run build",
